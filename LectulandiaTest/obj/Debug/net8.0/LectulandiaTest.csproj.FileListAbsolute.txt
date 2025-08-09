@@ -1,0 +1,5 @@
+C:\Users\ashle\LectulandiaTest\obj\Debug\net8.0\LectulandiaTest.csproj.AssemblyReference.cache
+C:\Users\ashle\LectulandiaTest\obj\Debug\net8.0\LectulandiaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\LectulandiaTest\obj\Debug\net8.0\LectulandiaTest.AssemblyInfoInputs.cache
+C:\Users\ashle\LectulandiaTest\obj\Debug\net8.0\LectulandiaTest.AssemblyInfo.cs
+C:\Users\ashle\LectulandiaTest\obj\Debug\net8.0\LectulandiaTest.csproj.CoreCompileInputs.cache
